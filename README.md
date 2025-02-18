@@ -1,4 +1,4 @@
-# Company Analysis with GenAI
+# 📊 Company Analysis with GenAI
 
 This project automates the extraction and analysis of company data to generate structured insights. Using **BeautifulSoup**, it scrapes information from a company’s website or LinkedIn page, which is then processed by a **Large Language Model (LLM)**—such as **GPT-4o-mini**—to produce a **comprehensive company analysis**.
 
